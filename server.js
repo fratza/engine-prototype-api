@@ -37,14 +37,14 @@ let newsHeadlines = [
     title:
       "MARINA grants special permits to ease San Juanico bridge disruption",
     imageUrl:
-      "https://news.google.com/api/attachments/CC8iK0NnNUxNVkZLWWw5T1ZsSkNTMVZtVFJDeUFSaWNBaWdCTWdZQmdJNHZMUWM=-w64-h64-p-df-rw",
+      "https://files01.pna.gov.ph/ograph/2025/05/20/tacloban---ormoc-roro.jpg",
     url: "https://news.google.com/read/CBMiUEFVX3lxTFBfY0JiOFQ3Q1ZxY0hIbnZubml0a1J0ZmxHWHN2UTB3RzlGOFhMUUVnT2U4dG9ja01Ia3JpdmtOdmx5eUNxbjZjVEU5dXlvX080?hl=en-PH&gl=PH&ceid=PH%3Aen",
   },
   {
     id: "4",
     title: "PBBM to Cabinet secretaries: Submit courtesy resignations",
     imageUrl:
-      "https://news.google.com/api/attachments/CC8iK0NnNWFRVkI2YVhkUFQwbHZVek5uVFJDRUFoaWZBeWdLTWdZcEpaek5HUW8=-w64-h64-p-df-rw",
+      "https://files01.pna.gov.ph/category-list/2025/05/08/img1671.jpeg",
     url: "https://news.google.com/read/CBMiUEFVX3lxTE5HajV6SHhZdC1WckQxWW5OZzA2YmkxZjJMbUNuMlYxSXJkb2hfOHprNjUtSjhrTDluX2NuaEt1RUVZTy1FSzJlazhkTW8wNmFG?hl=en-PH&gl=PH&ceid=PH%3Aen",
   },
   {
@@ -52,7 +52,7 @@ let newsHeadlines = [
     title:
       "Justin Bieber's remarks on Hailey Bieber's Vogue cover sparks controversy",
     imageUrl:
-      "https://news.google.com/api/attachments/CC8iL0NnNXZVMnQ1VkdKbGEyOHdVMGRvVFJEQ0FSaURBaWdCTWdrTmdaSlBOZWVwTEFJ=-w64-h64-p-df-rw",
+      "https://www.geo.tv/assets/uploads/updates/2025-05-21/l_605439_053336_updates.jpg",
     url: "https://news.google.com/read/CBMixAFBVV95cUxNX1NfTlNxT0lBV3NzNW1qQ0F5TC02NmJwMkZGMm9pX29RcVRNcHRpU2RoVll6T04xWUxnQmtiSEpXejAxblRpNXcxVEZkUjc2aHktVHJxV0dIWTNFMFk4WlNvaVlYcmNXZFFxY21aYzh4M1JST1QxZ01oUElpOF9rRnA3NUdnVkdwcEtVR3pMWmFOdlFqU1NwX1hsN21OVFRDT25yby1JVTNWcGhINEpUbHBCZkc4T2kxM1RMal9kNzNKUHB6?hl=en-PH&gl=PH&ceid=PH%3Aen",
   },
   {
